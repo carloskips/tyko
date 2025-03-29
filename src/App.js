@@ -17,7 +17,7 @@ function App() {
             <HamburgerMenu />
           </div>
           <Routes>
-            <Route path="/nouns" element={<NounsPage />} />
+            <Route path="/" element={<NounsPage />} />
             <Route path="/definitive" element={<DefPage />} />
             <Route path="/possession" element={<PosPage />} />
         </Routes>

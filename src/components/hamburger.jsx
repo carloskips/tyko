@@ -29,7 +29,7 @@ const HamburgerMenu = () => {
             >
               <ul className="py-2">
                 <li>
-                  <Link to="/nouns" onClick={closeMenu} className="block px-4 py-2 hover:bg-stone-500 text-sm inter-bold cursor-pointer transition">
+                  <Link to="/" onClick={closeMenu} className="block px-4 py-2 hover:bg-stone-500 text-sm inter-bold cursor-pointer transition">
                     <LuLanguages></LuLanguages>Conjugation
                   </Link>
                 </li>
