@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/tyko/static/css/main.b0d6c292.css",
-    "main.js": "/tyko/static/js/main.437c2e00.js",
+    "main.js": "/tyko/static/js/main.fcc5c885.js",
     "static/js/453.0a36081d.chunk.js": "/tyko/static/js/453.0a36081d.chunk.js",
     "index.html": "/tyko/index.html",
     "main.b0d6c292.css.map": "/tyko/static/css/main.b0d6c292.css.map",
-    "main.437c2e00.js.map": "/tyko/static/js/main.437c2e00.js.map",
+    "main.fcc5c885.js.map": "/tyko/static/js/main.fcc5c885.js.map",
     "453.0a36081d.chunk.js.map": "/tyko/static/js/453.0a36081d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b0d6c292.css",
-    "static/js/main.437c2e00.js"
+    "static/js/main.fcc5c885.js"
   ]
 }
